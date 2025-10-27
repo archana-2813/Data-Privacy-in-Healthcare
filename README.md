@@ -2,9 +2,8 @@
 Research paper exploring blockchain-based data privacy and security in healthcare systems.
 
 **Course:** IFT 520 – Advanced Information Systems Security  
-**Institution:** Arizona State University, Ira A. Fulton Schools of Engineering – The Polytechnic School  
-**Team:** Team 51  
-**Authors:** Archana Kanchimireddy, Sanjay Pulluri, Sreeja Vaddi  
+**Institution:** Arizona State University, Ira A. Fulton Schools of Engineering – The Polytechnic School    
+**Authors:** Archana Kanchimireddy 
 **Date:** Spring 2024  
 
 ---
