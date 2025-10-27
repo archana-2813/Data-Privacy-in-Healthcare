@@ -6,12 +6,11 @@ Course:– Advanced Information Systems Security
 Date:Spring 2024  
 
 
-## 🧠 Abstract
+## Abstract
 Healthcare’s digital transformation introduces major privacy challenges.  
 This research explores how **blockchain technology** can strengthen patient data protection, improve interoperability, and ensure compliance with data privacy regulations such as HIPAA and GDPR.  
 It highlights the balance between healthcare innovation and safeguarding sensitive patient information.
 
----
 
 ## 📑 Table of Contents
 1. Abstract  
@@ -25,9 +24,8 @@ It highlights the balance between healthcare innovation and safeguarding sensiti
 9. Conclusion  
 10. References  
 
----
 
-## 🧩 Summary
+## Summary
 This paper reviews blockchain’s potential in healthcare for:
 - Enhancing data privacy and security  
 - Enabling decentralized patient-controlled data access  
