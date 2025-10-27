@@ -1,13 +1,10 @@
 # Data-Privacy-in-Healthcare: Protecting Patient Data
 Research paper exploring blockchain-based data privacy and security in healthcare systems.
 
-**Course:** IFT 520 – Advanced Information Systems Security  
+Course:– Advanced Information Systems Security  
 **Institution:** Arizona State University, Ira A. Fulton Schools of Engineering – The Polytechnic School    
-**Authors:** Archana Kanchimireddy
+Date:Spring 2024  
 
-**Date:** Spring 2024  
-
----
 
 ## 🧠 Abstract
 Healthcare’s digital transformation introduces major privacy challenges.  
