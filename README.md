@@ -4,6 +4,7 @@ Research paper exploring blockchain-based data privacy and security in healthcar
 **Course:** IFT 520 – Advanced Information Systems Security  
 **Institution:** Arizona State University, Ira A. Fulton Schools of Engineering – The Polytechnic School    
 **Authors:** Archana Kanchimireddy 
+
 **Date:** Spring 2024  
 
 ---
